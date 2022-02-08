@@ -1,0 +1,14 @@
+<launch>
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+    <node pkg="assignment2_move_turtle" type="square_closedloop.py" name="square_close">
+        <param name="x1" value="5"/>
+        <param name="y1" value="5"/>
+        <param name="x2" value="8"/>
+        <param name="y2" value="5"/>
+        <param name="x3" value="8"/>
+        <param name="y3" value="8"/>
+        <param name="x4" value="5"/>
+        <param name="y4" value="8"/>
+        <param name="tol" value="0.01"/>
+    </node>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/sachetk/assignment2_ws/devel
+
+Name: assignment2_move_turtle
+Description: Description of assignment2_move_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
