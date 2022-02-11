@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/sachetk/autonomy_git/AuE8230Spring22_Sachet/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sachetk/autonomy_git/AuE8230Spring22_Sachet/catkin_ws/install -G Unix Makefiles
